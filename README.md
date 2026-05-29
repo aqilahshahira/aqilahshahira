@@ -35,7 +35,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 ## 📈 My GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqilahshahira&show_icons=true&theme=radical&hide_border=true" alt="Aqilah's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqilahshahira&theme=radical&hide_border=true" alt="Aqilah's GitHub Streak" />
 </div>
 
