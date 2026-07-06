@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -24,6 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### 🎨 Design & 3D Modeling
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -44,7 +46,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 
 I am a **Software Engineering student** with strong communication, teamwork, and problem-solving skills developed through Agile and Scrum methodologies. Detail-oriented and organized, I thrive in fast-paced environments and pride myself on delivering efficient results while meeting strict deadlines.
 
-- 🎯 **Objective:** I am actively seeking an **8-week full-time internship from June 29 until August 21, 2026**. I am also available to extend my internship exclusively in a remote capacity.
 - 💻 **Background:** Experienced in full-stack programming, database management, and modern developer tools (including React, Git, Linux, and the Adobe Suite).
 - 📫 **How to reach me:** www.linkedin.com/in/aqilahshahira or aqilahshahira1@gmail.com
 
