@@ -2,6 +2,22 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a strong foundation in various programming languages, frameworks, and design tools. I love solving problems, building interesting projects, and constantly expanding my skill set.
 
+## 👩‍💻 About Me
+
+I am a **Software Engineering student** passionate about building efficient, scalable web applications and solving complex technical challenges. With a solid foundation in full-stack development and database management, I thrive in collaborative environments using **Agile and Scrum** methodologies to deliver high-quality results on strict deadlines.
+
+* **💻 Technical Expertise:** Experienced across a diverse tech stack including React, Java, Python, JavaScript, and relational databases (MySQL, PostgreSQL), alongside modern tools like Git, Linux, and Power BI.
+* **🎨 Creative Edge:** Unique ability to bridge the gap between development and design, leveraging the Adobe Creative Suite and Blender to create visually compelling and user-centric solutions.
+* **📫 Let's Connect:** Partner with me on LinkedIn at [linkedin.com/in/aqilahshahira](https://www.linkedin.com/in/aqilahshahira) or reach out directly via email at [aqilahshahira1@gmail.com](mailto:aqilahshahira1@gmail.com).
+
+## 🌟 Professional Competencies & Languages
+
+* **🧠 Core Strengths:** Proven ability in cross-functional **leadership**, precise **time management**, and analytical **problem-solving**. Thrives on critical thinking, high adaptability to new tech stacks, and a meticulous attention to detail.
+* **🗣️ Language Proficiency:**
+  * **Malay:** Native / Bilingual
+  * **English:** Professional Working Proficiency
+  * **Korean:** Intermediate / Conversational
+
 ## 🚀 My Tech Stack & Skills
 
 ### 💻 Programming Languages
@@ -37,24 +53,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 ## 📈 My GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilahshahira&theme=radical&hide_border=true" alt="Aqilah's Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aqilahshahira&layout=compact&theme=radical&hide_border=true" alt="Aqilah's Top Languages" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqilahshahira&theme=radical&hide_border=true" alt="Aqilah's GitHub Streak" />
 </div>
 
 ---
 
-## 👩‍💻 About Me
-
-I am a **Software Engineering student** passionate about building efficient, scalable web applications and solving complex technical challenges. With a solid foundation in full-stack development and database management, I thrive in collaborative environments using **Agile and Scrum** methodologies to deliver high-quality results on strict deadlines.
-
-* **💻 Technical Expertise:** Experienced across a diverse tech stack including React, Java, Python, JavaScript, and relational databases (MySQL, PostgreSQL), alongside modern tools like Git, Linux, and Power BI.
-* **🎨 Creative Edge:** Unique ability to bridge the gap between development and design, leveraging the Adobe Creative Suite and Blender to create visually compelling and user-centric solutions.
-* **📫 Let's Connect:** Partner with me on LinkedIn at [linkedin.com/in/aqilahshahira](https://www.linkedin.com/in/aqilahshahira) or reach out directly via email at [aqilahshahira1@gmail.com](mailto:aqilahshahira1@gmail.com).
-
-## 🌟 Professional Competencies & Languages
-
-* **🧠 Core Strengths:** Proven ability in cross-functional **leadership**, precise **time management**, and analytical **problem-solving**. Thrives on critical thinking, high adaptability to new tech stacks, and a meticulous attention to detail.
-* **🗣️ Language Proficiency:**
-  * **Malay:** Native / Bilingual
-  * **English:** Professional Working Proficiency
-  * **Korean:** Intermediate / Conversational
+## 📊 Profile Evaluation Metrics
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=aqilahshahira&theme=radical&hide_border=true&show_icons=true" alt="Aqilah's GitHub Stats" />
+</div>
