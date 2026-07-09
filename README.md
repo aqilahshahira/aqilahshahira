@@ -37,6 +37,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 ## 📈 My GitHub Stats & Streaks
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilahshahira&theme=radical&hide_border=true" alt="Aqilah's Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqilahshahira&theme=radical&hide_border=true" alt="Aqilah's GitHub Streak" />
 </div>
 
@@ -44,12 +45,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 
 ## 👩‍💻 About Me
 
-I am a **Software Engineering student** with strong communication, teamwork, and problem-solving skills developed through Agile and Scrum methodologies. Detail-oriented and organized, I thrive in fast-paced environments and pride myself on delivering efficient results while meeting strict deadlines.
+I am a **Software Engineering student** passionate about building efficient, scalable web applications and solving complex technical challenges. With a solid foundation in full-stack development and database management, I thrive in collaborative environments using **Agile and Scrum** methodologies to deliver high-quality results on strict deadlines.
 
-- 💻 **Background:** Experienced in full-stack programming, database management, and modern developer tools (including React, Git, Linux, and the Adobe Suite).
-- 📫 **How to reach me:** www.linkedin.com/in/aqilahshahira or aqilahshahira1@gmail.com
+* **💻 Technical Expertise:** Experienced across a diverse tech stack including React, Java, Python, JavaScript, and relational databases (MySQL, PostgreSQL), alongside modern tools like Git, Linux, and Power BI.
+* **🎨 Creative Edge:** Unique ability to bridge the gap between development and design, leveraging the Adobe Creative Suite and Blender to create visually compelling and user-centric solutions.
+* **📫 Let's Connect:** Partner with me on LinkedIn at [linkedin.com/in/aqilahshahira](https://www.linkedin.com/in/aqilahshahira) or reach out directly via email at [aqilahshahira1@gmail.com](mailto:aqilahshahira1@gmail.com).
 
-## 🌟 Soft Skills & Languages
+## 🌟 Professional Competencies & Languages
 
-* **🧠 Soft Skills:** Leadership, Time Management, Problem Solving, Critical Thinking, Adaptability, Willingness to Learn, Attention to Detail.
-* **🗣️ Languages:** Malay (Native), English (Fluent), Korean (Intermediate).
+* **🧠 Core Strengths:** Proven ability in cross-functional **leadership**, precise **time management**, and analytical **problem-solving**. Thrives on critical thinking, high adaptability to new tech stacks, and a meticulous attention to detail.
+* **🗣️ Language Proficiency:**
+  * **Malay:** Native / Bilingual
+  * **English:** Professional Working Proficiency
+  * **Korean:** Intermediate / Conversational
