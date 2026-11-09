@@ -1,71 +1,99 @@
-# Hi there, I'm Aqilah Shahira! 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong foundation in various programming languages, frameworks, and design tools. I love solving problems, building interesting projects, and constantly expanding my skill set.
+# Hi, I'm Aqilah Shahira 👋
 
-## 👩‍💻 About Me
+`Software Engineering Student` • `Full-Stack Developer` • `UI/UX Enthusiast`
 
-I am a **Software Engineering student** passionate about building efficient, scalable web applications and solving complex technical challenges. With a solid foundation in full-stack development and database management, I thrive in collaborative environments using **Agile and Scrum** methodologies to deliver high-quality results on strict deadlines.
-
-* **💻 Technical Expertise:** Experienced across a diverse tech stack including React, Java, Python, JavaScript, and relational databases (MySQL, PostgreSQL), alongside modern tools like Git, Linux, and Power BI.
-* **🎨 Creative Edge:** Unique ability to bridge the gap between development and design, leveraging the Adobe Creative Suite and Blender to create visually compelling and user-centric solutions.
-* **📫 Let's Connect:** Partner with me on LinkedIn at [linkedin.com/in/aqilahshahira](https://www.linkedin.com/in/aqilahshahira) or reach out directly via email at [aqilahshahira1@gmail.com](mailto:aqilahshahira1@gmail.com).
-
-## 🌟 Professional Competencies & Languages
-
-* **🧠 Core Strengths:** Proven ability in cross-functional **leadership**, precise **time management**, and analytical **problem-solving**. Thrives on critical thinking, high adaptability to new tech stacks, and a meticulous attention to detail.
-* **🗣️ Language Proficiency:**
-  * **Malay:** Native / Bilingual
-  * **English:** Professional Working Proficiency
-  * **Korean:** Intermediate / Conversational
-
-## 🚀 My Tech Stack & Skills
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### ⚙️ Frameworks, Software & OS 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 🎨 Design & 3D Modeling
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqilahshahira1@gmail.com)
 
 ---
 
-## 📈 My GitHub Stats & Streaks
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aqilahshahira&layout=compact&theme=radical&hide_border=true" alt="Aqilah's Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqilahshahira&theme=radical&hide_border=true" alt="Aqilah's GitHub Streak" />
 </div>
 
+## 📌 About Me
+
+* 🚀 **Full-Stack Engineering:** Building end-to-end web applications using modern frontend frameworks, scalable backends, and relational/NoSQL databases.
+* 🎨 **Creative UI/UX Design:** Combining software engineering principles with tools like **Figma**, **Adobe Creative Cloud**, and **Blender** to create high-fidelity interfaces.
+* ⚡ **Agile & Collaborative:** Experienced in Git workflows, Scrum methodologies, and writing clean, maintainable code.
+
 ---
 
-## 📊 Profile Evaluation Metrics
+## 🛠️ Technical Stack
+
+<details open>
+  <summary><b>💻 Languages & Core</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</details>
+
+<br />
+
+<details open>
+  <summary><b>⚙️ Frameworks & Libraries</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</details>
+
+<br />
+
+<details open>
+  <summary><b>🗄️ Databases & DevOps</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</details>
+
+<br />
+
+<details open>
+  <summary><b>🎨 UI/UX & Design Tools</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</details>
+
+---
+
+## 🌐 Spoken Languages
+
+| Language | Proficiency Level |
+| :--- | :--- |
+| **Malay** | Native / Bilingual |
+| **English** | Professional Working Proficiency |
+| **Korean** | Intermediate / Conversational |
+
+---
+
+## 📊 Activity & Stats
+
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=aqilahshahira&theme=radical&hide_border=true&show_icons=true" alt="Aqilah's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aqilahshahira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilahshahira&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqilahshahira&theme=tokyonight&hide_border=true" width="97%" />
 </div>
