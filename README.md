@@ -13,7 +13,7 @@
 
 ## 📌 About Me
 
-* 🚀 **Full-Stack Engineering:** Building end-to-end web applications using modern frontend frameworks, scalable backends, and relational/NoSQL databases.
+* 🚀 **Full-Stack Engineering:** Building end-to-end web applications using modern frontend frameworks, scalable backends, and cloud databases like Supabase.
 * 🎨 **Creative UI/UX Design:** Combining software engineering principles with tools like **Figma**, **Adobe Creative Cloud**, and **Blender** to create high-fidelity interfaces.
 * ⚡ **Agile & Collaborative:** Experienced in Git workflows, Scrum methodologies, and writing clean, maintainable code.
 
@@ -54,6 +54,7 @@
 <details open>
   <summary><b>🗄️ Databases & DevOps</b></summary>
   <br />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -88,12 +89,18 @@
 ## 📊 Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqilahshahira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilahshahira&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/aqilahshahira">
+    <img src="https://github-readme-stats.vercel.app/api?username=aqilahshahira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/aqilahshahira">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilahshahira&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqilahshahira&theme=tokyonight&hide_border=true" width="97%" />
+  <a href="https://github.com/aqilahshahira">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqilahshahira&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  </a>
 </div>
