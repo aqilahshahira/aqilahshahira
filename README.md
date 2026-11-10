@@ -2,7 +2,7 @@
 
 # Hi, I'm Aqilah Shahira 👋
 
-`Software Engineering Student` • `Full-Stack Developer` • `UI/UX Enthusiast`
+`Software Engineering Student` • `Full-Stack Developer` • `Web Developer`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqilahshahira1@gmail.com)
@@ -89,18 +89,12 @@
 ## 📊 Activity & Stats
 
 <div align="center">
-  <a href="https://github.com/aqilahshahira">
-    <img src="https://github-readme-stats.vercel.app/api?username=aqilahshahira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/aqilahshahira">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilahshahira&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aqilahshahira&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilahshahira&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Languages" width="48%" />
+</p>
 
-<br />
-
-<div align="center">
-  <a href="https://github.com/aqilahshahira">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqilahshahira&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqilahshahira&theme=tokyonight" alt="GitHub Streak" width="96%" />
+</p>
 </div>
